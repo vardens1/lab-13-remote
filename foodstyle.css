@@ -1,0 +1,42 @@
+.WebContainer {
+	width: 100%
+	height: auto;
+}
+
+body {
+	background: white url(http://www.publicdomainpictures.net/pictures/80000/velka/pastel-easter-eggs-wallpaper.jpg) repeat top right;
+	font-size: 12px;
+	font-family: sans-serif;
+}
+
+h2,p {
+	color: #004400;
+}
+
+h1 { 
+	color: #886600;
+	text-decoration: underline;
+	margin: 20px;
+	padding: 40px;
+	border-style: dotted;
+	border-color: pink;
+	text-align: center;
+}
+
+h2 {
+	border-style: dotted;
+	border-color: pink;
+	text-align: center;
+}
+
+#intro {
+	border-style: solid;
+	border-width: 1px;
+	border-color: black;
+}
+
+.spotlight {
+	background-color: #fefe22;
+}
+
+
